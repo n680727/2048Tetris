@@ -7,4 +7,7 @@
 來讓整個版面移動
 落下的數字會隨著分數變高
 而出現更高的數字
+
+
+實際遊玩影片:
 https://github.com/user-attachments/assets/5dd99468-e033-44c2-94a6-b30a80dc9243
