@@ -1,0 +1,21 @@
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+
+
+# Visual Studio Code settings
+.vscode/
+
+# Log files
+*.log
+
+# Backup & temp
+*.bak
+*.tmp
