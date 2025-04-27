@@ -22,7 +22,7 @@
 ### 安裝步驟
 1. 克隆本倉庫至本地：
    ```bash
-   git clone https://github.com/<你的GitHub用戶名>/<你的倉庫名>.git
+   git clone https://github.com/n680727/2048Tetris.git
    ```
 2. 使用 Visual Studio 開啟專案檔案（`2048Tetris.sln`）。
 3. 確保專案已正確引用 .NET Framework。
@@ -50,7 +50,7 @@
    - 當遊戲剩餘時間為0時，遊戲結束並顯示「Game Over」。
    - 最高分數與最大合併數字會自動儲存。
 5. **重新開始**：
-   - 點擊介面上的按鈕（`button1`）可重置遊戲，清除版面並重新開始。
+   - 點擊介面上的按鈕（`重新開始`）可重置遊戲，清除版面並重新開始。
 
 
 ## 開發背景
